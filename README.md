@@ -4,16 +4,16 @@
 
 **Student Name:** Parba, Zyra Mae P.
 
-**Course & Year:** BSIT2
+**Course & Year:** BSIT - 2
 
 **Database Used:** MySQL
 
 ## Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+- Add Task - Create new entries with a task title, detailed notes, priority level (High/Low), and a target due date through a clean modal prompt.
+- View Tasks - Organize tasks into Pending and Completed categories,view real-time task counts and search entries.
+- Edit Task - Easily modify any task's title, description notes, priority status, or scheduled due date.
+- Delete Task - Permanently remove unnecessary task entries from the list with a single click.
+- Update Status - Mark tasks as complete or toggle them back to pending using the interactive checkboxes.
 
 ## Setup
 1. `composer install`
