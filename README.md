@@ -39,6 +39,15 @@ at the matching paths:
 
 --------------SCREENSHOTS--------------
 
+<img width="1911" height="939" alt="image" src="https://github.com/user-attachments/assets/6008c88e-e07b-4210-918c-17ed2358c0f0" />
+<img width="1898" height="950" alt="image" src="https://github.com/user-attachments/assets/e5ea6f89-ef68-45ed-9dc7-a4dfded917cf" />
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/21075c74-26cb-4a02-9b40-bd05518eb9e1" />
+<img width="763" height="419" alt="image" src="https://github.com/user-attachments/assets/064dfdae-565e-4b3c-a877-8268977efffb" />
+
+
+
+
+
 
 
 
