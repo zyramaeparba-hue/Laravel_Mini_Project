@@ -1,12 +1,23 @@
 # Task Manager (Laravel)
 
-**Project Code:** WST21-PM-2026-SF
+**Project Code:**
 
-**Student Name:** Parba, Zyra Mae P.
+WST21-PM-2026-SF
+______________________________
 
-**Course & Year:** BSIT - 2
+**Student Name:**
 
-**Database Used:** MySQL
+Parba, Zyra Mae P.
+______________________________
+
+**Course & Year:**
+
+BSIT - 2
+______________________________
+
+**Database Used:**
+
+MySQL
 
 ## Features
 - Add Task - Create new entries with a task title, detailed notes, priority level (High/Low), and a target due date through a clean modal prompt.
